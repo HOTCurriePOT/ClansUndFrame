@@ -1,0 +1,5 @@
+name: ClansUF
+main: ru.undframe.maincraft.clansuf.Clans
+version: "0.1.0"
+commands:
+  clan:
